@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+__pycache__/
+*.pyc
+.env
+../../Desktop/SPRINT_5_TOCHNO_NEW/.idea/
+.vscode/
+chromedriver.log
+.venv/
+venv/
